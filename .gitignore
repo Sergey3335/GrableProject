@@ -9,7 +9,15 @@ build/
 *.iws
 *.iml
 *.ipr
-out/
+out/git clear
+
+
+
+
+
+
+
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
